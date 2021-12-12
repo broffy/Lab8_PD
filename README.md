@@ -1,5 +1,5 @@
 # Lab8_PD
-node fibb calc
+node fibb calc\
 pobrac repo do folderu i wykona komende\
 docker compose -f docker-compose2.yml up\
 moliwe problemy z starsza wersja node dokleic do Dockerfile ENV NODE_OPTIONS=--openssl-legacy-provider\
